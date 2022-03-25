@@ -1,7 +1,7 @@
 provider "aws"{
 region = "us-east-1"
-access_key = "AKIATWGIL7V2RJXJTDXN"
-secret_key = "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"
+access_key = 
+secret_key = 
 }
 
 resource "aws_instance" "AWSTerraformTest"{
